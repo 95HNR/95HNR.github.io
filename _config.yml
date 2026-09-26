@@ -9,15 +9,15 @@
 # Basic Site Settings
 locale: 'en-US'
 site_theme: 'mint' # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title: "Balog Edit's Academic Portfolio" # Update this with the title of your site
+title: "Sándor Hunor's Academic Portfolio" # Update this with the title of your site
 title_separator: '-'
-name: &name 'Balog Edit'
-description: &description "Balog Edit's academic portfolio" # Update this with a general description of your site, this is the default if not overridden by a page
+name: &name 'Sándor Hunor'
+description: &description "Sándor Hunor's academic portfolio" # Update this with a general description of your site, this is the default if not overridden by a page
 url:
-  'https://baloogedit.github.io' # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+  'https://95HNR.github.io' # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
   # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl: '' # the subpath of your site, e.g. "/blog"
-repository: 'baloogedit/baloogedit.github.io'
+repository: '95HNR/95HNR.github.io'
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -25,13 +25,13 @@ repository: 'baloogedit/baloogedit.github.io'
 author:
   # Biographic information
   avatar: 'profile.jpg'
-  name: 'Balog Edit'
-  pronouns: 'she/her'
-  bio: 'I am a last year Informatics student. I am passionate about programming and I am currently learning web development.'
+  name: 'Sándor Hunor'
+  pronouns: 'he/him'
+  bio: 'I am a third-year Informatics student. I am passionate about programming and I am currently learning web development.'
   location: 'Targu Mures, Romania'
   employer: 'Universitatea de Medicină, Farmacie, Stiinte si Technologie Târgu Mureș'
   uri: # URL
-  email: 'editecske09@gmail.com'
+  email: 'megnemmondodki@gmail.com'
 
   # Academic websites
   academia: # URL
@@ -51,7 +51,7 @@ author:
   bitbucket: # Username - Update with your username on the site
   codepen: # Username
   dribbble: # Username
-  github: 'baloogedit' # Username - Update with your username on the site
+  github: '95HNR' # Username - Update with your username on the site
   kaggle: # Username
   stackoverflow: # User number or user number and name (i.e., use "1" or "1/jeff-atwood")
 
@@ -64,9 +64,9 @@ author:
   goodreads: # Username
   google_plus: # Username
   keybase: # Username
-  instagram: 'edit._balog'
+  instagram: '95HNR'
   lastfm: # Username
-  linkedin: 'edit-balog/'
+  linkedin: 'sandor-hunor/'
   mastodon: # URL
   medium: # URL
   pinterest: # Username
